@@ -1,7 +1,7 @@
-###👋 Hi, I’m @shalavya8103
-### 👀 I’m interested in Web-Development, AI/ML.
-### 🌱 Python,c,js.
-### 📫 How to reach me shalavyaagrawal@gmail.com
+- 👋 Hi, I’m @shalavya8103
+- 👀 I’m interested in Web-Development, AI/ML.
+-  🌱 Python,c,js.
+- 📫 How to reach me shalavyaagrawal@gmail.com
 
 <!--
 **Shalavya8103/Shalavya8103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
