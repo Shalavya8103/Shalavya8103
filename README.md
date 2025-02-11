@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shalavya8103
-- 👀 I’m interested in Web-Development, AI/ML.
--  🌱 Python,c,js.
+- 👀 I’m interested in Gen AI and Machine Learning.
+-  🌱 Python, Cypher,Js, C/C++, Java.
 - 📫 How to reach me shalavyaagrawal@gmail.com
 
 <!--
